@@ -6,7 +6,7 @@ assets:
   method: copy
   source:
   - name: remastered/xw_ex_5120.wpn/-c640.cvbl
-- name: remastered/xw_ex_5120.wpn/-c740.dds
+- name: remastered/xw_ex_5120.wpn/-c741.dds
   method: copy
   source:
-  - name: remastered/xw_ex_5120.wpn/-c740.dds
+  - name: remastered/xw_ex_5120.wpn/-c741.dds
